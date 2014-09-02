@@ -15,7 +15,6 @@ public class betterminecraft
     @Mod.EventHandler
     public void preinit(FMLPreInitializationEvent event)
     {
-
     }
 
     @Mod.EventHandler
